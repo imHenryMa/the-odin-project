@@ -6,4 +6,4 @@
 	url = git@github.com:TheOdinProject/css-exercises.git
 [submodule "2-css-foundations/css-exercises"]
 	path = 2-css-foundations/css-exercises
-	url = git@github.com:TheOdinProject/css-exercises.git
+	url = git@github.com:imHenryMa/css-exercises.git
