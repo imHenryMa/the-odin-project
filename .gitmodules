@@ -7,3 +7,6 @@
 [submodule "2-css-foundations/css-exercises"]
 	path = 2-css-foundations/css-exercises
 	url = git@github.com:imHenryMa/css-exercises.git
+[submodule "3-javascript-basics/javascript-exercises"]
+	path = 3-javascript-basics/javascript-exercises
+	url = git@github.com:imHenryMa/javascript-exercises.git
