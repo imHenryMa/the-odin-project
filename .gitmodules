@@ -10,3 +10,6 @@
 [submodule "3-javascript-basics/javascript-exercises"]
 	path = 3-javascript-basics/javascript-exercises
 	url = git@github.com:imHenryMa/javascript-exercises.git
+[submodule "3-javascript-basics/Javascript30"]
+	path = 3-javascript-basics/Javascript30
+	url = git@github.com:imHenryMa/JavaScript30.git
